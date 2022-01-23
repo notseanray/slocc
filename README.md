@@ -7,7 +7,7 @@
 <p align="center">simple-significant line of code counter</p>
 
 <p align="center">
-	<a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL%20v3.0-blue.svg"></a>
+	<a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
 slocc is a simple and fast line counter, this tool is not very useful but I wanted it's functionality for testing random directories or files
